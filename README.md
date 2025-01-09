@@ -3,6 +3,8 @@
 ## Background
 In this assignment, I was tasked with looking at two deliverables, WeatherPy and VacationPy, in order to visually analyze how the weather changes as the equator is approached. The results of this analysis were used to predict the most pleasant vacation locations. The skills learned using Python requests, APIs, and JSON were used to help manipulate the data given. 
 
+All results can be found in the API-Callenge folder under WeatherPy. 
+
 ### Part 1: WeatherPy
 In this section, I created a Python script to visualize the weather of over 500 cities of varying distances from the equator. I used the Citipy Python library, the [OpenWeatherMap API](https://openweathermap.org/api), and the problem-solving skills learned to create a representative model of weather across cities. 
 
